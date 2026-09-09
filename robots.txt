@@ -18,4 +18,4 @@ User-agent: DotBot
 User-agent: CCBot
 Disallow: /
 
-Sitemap: https://incaspin-333.onrender.com/sitemap.xml
+Sitemap: https://incaspin-333-fsd9.onrender.com/sitemap.xml
